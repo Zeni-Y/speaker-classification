@@ -1,6 +1,9 @@
 # speaker-classification
+本レポジトリは，言語処理学会第29回年次大会で発表する
+論文[「BCCWJを対象としたパターンマッチによるEnd-to-End発話者分類」](https://github.com/Zeni-Y/anlp2023-revised-paper)
+の実装プロジェクトです．
 
-コードの公開までもう少々お待ち下さい．
+コードの公開まではもう少々お待ち下さい．
 
 # 原稿中の誤りについて
 
